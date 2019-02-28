@@ -1,4 +1,4 @@
-Tool    : hangman                              <br>
+Game    : hangman                              <br>
 Version : 1.0                                  <br>
 Runs on : Windows/ Linux                       <br>
 Source  : https://github.com/pr2h/             <br>
